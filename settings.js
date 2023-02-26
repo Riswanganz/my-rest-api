@@ -6,7 +6,7 @@ global.ACTIVATION_TOKEN_SECRET = "-@Pqnap+@(/1jAPPnew/@10" //isi apa aja bebas
 global.your_email = "riswangans03@gmail.com" //email
 global.email_password = "ettpxosutktfxtqn" //application password email
 global.limitCount = 10000
-global.YUOR_PORT = 7390
+global.YUOR_PORT = 5000
 global.loghandler = {
 	noapikey:{
 		status: 403,
